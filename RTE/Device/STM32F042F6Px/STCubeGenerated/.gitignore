@@ -1,0 +1,6 @@
+# ignore all drivers
+Drivers/**/*.c
+Drivers/**/*.h
+Drivers/**/*.s
+
+MDK-ARM/STCubeGenerated.*
